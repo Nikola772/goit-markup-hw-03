@@ -120,13 +120,9 @@ p {
   color: var(--title-text);
 }
 
-.link-nav.portfolio:visited {
-  color: var(--webstydio-link);
-}
+ 
 
-.link-nav.one:visited {
-  color: var(--webstydio-link);
-}
+ 
 
 .link-nav.tel {
   color: var(--text-color);   
@@ -249,13 +245,21 @@ p {
 }
 
  .title-list {
-   padding-top: 0;
+   padding-top: 94px;
   
  }
 
- .our-command {
-   background-color: #F5F4FA;
-   padding-bottom: 94px;
+ .our-command {  
+  margin-left: 90px; 
+   
+ }
+
+ .command-item {
+  width: 100%;
+  max-width: 1600px;
+  background-color: #F5F4FA;
+  padding-bottom: 94px;
+
  }
 
 
