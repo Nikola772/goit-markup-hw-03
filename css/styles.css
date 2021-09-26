@@ -23,7 +23,7 @@ p {
 }
 
 .body {
-  border-bottom: 1px solid #ECECEC;
+  border-bottom: 1px solid #ECECEC;  
 }
 
 .page-header {
@@ -51,7 +51,8 @@ p {
 }
 .container {   
   width: 1170px;
-  margin: 0 auto;         
+  margin: 0 auto;  
+         
 }
 
  .menu {
@@ -264,10 +265,9 @@ p {
  .command-item {
   width: 100%;
   max-width: 1600px;
-  background-color: #F5F4FA;
-  
+  background-color: #F5F4FA;  
   padding-bottom: 94px;
-
+  
  }
 
 
@@ -356,9 +356,10 @@ p {
   background-color: var(--primary-color);
 }
 
+ 
 
-
-.contact.footer {   
+.contact.footer {  
+   
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -392,7 +393,8 @@ padding-top: 20px;
  .contact-footer {
    padding-top: 60px;
    padding-bottom: 60px;
-   margin-left: 90px;
+   
+    
  }
 
 .span-stydio-footer {
